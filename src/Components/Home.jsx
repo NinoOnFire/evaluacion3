@@ -6,6 +6,7 @@ import valorant from '../imagenes/valorant.jpg';
 import ThemeToggle from './Modo'
 
 function Home() {
+  // Constante que almacena las imagenes
   const juegos = [
     {
       nombre: "Elden Ring",
@@ -47,7 +48,6 @@ function Home() {
             ))}
           </div>
         </section>
-
 
         <section className="noticias">
           <h2>🗞️ Noticias Gamer</h2>
