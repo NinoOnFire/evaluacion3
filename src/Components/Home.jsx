@@ -29,7 +29,7 @@ function Home() {
       <main className="home-container">
         <section className="hero">
           <h1>🎮 Bienvenido al Mundo Gamer</h1>
-          <p>Descubre mundos, desafíos y leyendas. ¡Juega, comenta y conquista!</p>
+          <p>Descubre mundos, desafíos y leyendas. ¡Juega, comenta y conquista.!</p>
           <button>Explorar juegos</button>
         </section>
 
