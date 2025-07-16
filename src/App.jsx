@@ -4,7 +4,7 @@ import Home from './Components/Home';
 import Nosotros from './Components/Nosotros';
 import Contactenos from './Components/Contactenos';
 import Comentarios from './Components/Comentarios';
-import './App.css';
+
 import PokemonTypes from './Components/PokemonTypes';
 
 function App() {
