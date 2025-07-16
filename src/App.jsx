@@ -6,6 +6,7 @@ import Contactenos from './Components/Contactenos';
 import Comentarios from './Components/Comentarios';
 import PokemonTypes from './Components/PokemonTypes';
 
+
 function App() {
 
 
